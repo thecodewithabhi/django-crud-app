@@ -72,7 +72,7 @@ crud_project/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/django-crud-app.git
+git clone https://github.com/thecodewithabhi/django-crud-app.git
 cd django-crud-app
 
 # Create virtual environment
